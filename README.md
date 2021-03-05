@@ -19,7 +19,7 @@
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/JiangxueHan529/Flixster/blob/master/Flixster%20Project%20Part2%20Walkthrough.gif" width=250><br>
 
 ### Notes
 
